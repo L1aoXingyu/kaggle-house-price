@@ -23,7 +23,7 @@ git clone https://github.com/L1aoXingyu/kaggle-house-price.git
 
 ## 评估与提交
 
-通过`predict-house-prices.ipynb`，你会建立一个模型进行房价的预测，同时在测试集上能够看到模型的效果，最后可以得到一个最优的模型，并在 testset 上面运行结果，在 kaggle 上面按照下面的步骤提交。
+通过`predict-house-prices.ipynb`，你会建立一个模型进行房价的预测，同时在测试集上能够看到模型的效果，最后可以得到一个最优的模型，并在 testset 上面运行结果，在 kaggle 的[提交页面](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)上面按照下面的步骤提交。
 
 1. 点击提交结果
 
